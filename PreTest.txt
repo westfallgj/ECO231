@@ -1,0 +1,79 @@
+1. Which question would best suit the following statement? An employee of the Bureau of Labor Statistics is trying to determine how many people are out of work due to an economic downturn.
+
+What is the cyclical unemployment rate?
+
+2. Which question would best suit the following statement? An individual wants to determine how much the price level has changed from one time period to another.
+
+What is the inflation rate?
+
+3. What are three common features of a recession?
+
+Lower inflation, slower economic growth, rising unemployment
+
+4. According to the Bureau of Labor Statistics, someone is unemployed if
+
+they are not working, but actively searching for work
+
+5. Which types of unemployment are part of the natural (or normal) rate of unemployment?
+
+Frictional and structural unemployment
+
+6. Real GDP is an important economic measurement because it allows us to determine
+
+whether the economy is growing or shrinking
+
+7. What happens to the equilibrium price and quantity of coffee if a major coffee-producing country experiences severe frost that damages the coffee crop?
+
+Equilibrium price increases, equilibrium quantity decreases.
+
+8. What happens to the equilibrium price and quantity of coffee if coffee is found to reduce the chances of having a heart attack?
+
+Equilibrium price increases, equilibrium quantity increases
+
+9. Which of the following would be an appropriate response to a decrease in aggregate demand from a Keynesian perspective?
+
+An increase in government spending
+
+10. Which of the following would be an appropriate response of the Federal Reserve to an inflationary gap (real GDP above potential)?
+
+Selling government securities on the open market
+
+11. Which of the following options would be most likely to reduce a government’s budget deficit?
+
+Increasing taxes
+
+12. Which of the following policy options would a Classical (or Neoclassical) economist be most likely support to increase long-run economic growth?
+
+Increasing education grants to encourage students to attend college and major in STEM (math, science, technology, and engineering) fields
+
+13. How does expansionary monetary policy (Open Market Operations) increase AD?
+
+The Federal Reserve buys bonds, which increases the money supply. (This makes loans cheaper, increasing investment and consumption spending, and boosting Ad)
+
+14. If the price of housing is too expensive, which of the following policies does economic theory predict would be most successful in solving the housing problem?
+
+Looser zoning regulations allowing new housing to be built in more areas
+
+15. If real GDP is significantly above potential (or the economy is growing much faster than normal), why might economic policymakers take actions designed to decrease GDP (or slow economic growth)?
+
+Inflationary pressure may be building in the economy
+
+16. Which of the following is NOT a concern when creating a fiscal policy plan for the United States?
+
+The Federal Reserve must approve any fiscal policy changes before they can take effect.
+
+17. Some people believe the government should never be allowed to run a budget deficit. Which of the following is the most likely negative side effect of following such a policy?
+
+The government’s ability to use economic policy to stabilize the economy would be weakened.
+
+18. The country of Zanibar is facing an annual inflation rate of 12%, which is much higher than its historical average of 3%. Meanwhile, wages have only increased by 4% over the same period. What are the likely effects of this disparity between the inflation rate and wage growth on the average citizen in this country?
+
+Citizens will experience decreased purchasing power, making it harder to afford goods and services.
+
+19. The country of Devlina invests heavily in new technology and infrastructure, significantly improving its productive capacity over time. How will these investments likely affect Devlina’s long-run aggregate supply (LRAS) curve, and what are the implications for long-term economic growth?
+
+LRAS will shift to the right, indicating an increase in potential output and long-term economic growth.
+
+20. A new financial regulation requires banks to hold a larger percentage of their deposits as reserves. This regulation is intended to increase the stability of the banking system. What is the likely impact of this regulation on the money-creation process and the broader economy?
+
+Banks will face less risk, but interest rates will rise, leading to decreased economic growth.
