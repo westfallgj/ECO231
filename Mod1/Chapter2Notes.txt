@@ -1,0 +1,16 @@
+1. opportunity cost: what one must give up to obtain what he or she desires. 
+2. marginal analysis: examining the benefits and costs of choosing a little more or a little less of a good.
+3. law of diminishing marginal utility: that as a person receives more of a good, the additional (or marginal) utility from each additional unit of the good declines.
+4. sunk costs: costs that were incurred in the past and cannot be recovered, should not affect the current decision.
+5. law of diminishing returns: as additional increments of resources are added to a certain purpose, the marginal benefit from those additional
+increments will decline.
+6. Productive efficiency: it is impossible to produce more of one good without decreasing the quantity that is produced of another good.
+7. Allocative efficiency: the particular combination of goods and services on the production possibility curve that a society produces represents the combination that society most desires.
+8. comparative advantage: when a country can produce a good at a lower opportunity cost than another country
+9. absolute advantage, which is when a country can produce more of a good.
+10. 
+
+
+Difference between a budget contraint and a production possibilities frontier (PPF).
+1. The budget constraint is a straight line, the slope doesn't change. The PPF has a curved slope because of the law of deminishing returns.
+2. The absence of specific numbers on the axes of the PPF. There are no specific numbers because we do not know the exact amount of resources this imaginary economy has, nor do we know how many resources it takes to produce an outcome.

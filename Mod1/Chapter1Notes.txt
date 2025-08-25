@@ -1,0 +1,70 @@
+1. Economics: the study of how humans make decisions in the face of scarcity. 
+2. Scarcity: human wants for goods, services and resources exceed what is available. 
+3. Division of Labor: the way one produces a good or service is divided into a number of tasks that different workers perform, instead of all the tasks being done by the same person.
+4. Economies of Scale:  as the level of production increases, the average cost of producing each individual unit declines.
+5. Microeconomics focuses on the actions of individual agents within the economy.
+6. Macroeconomics looks at the economy as a whole.
+7. monetary policy: policies that affect bank lending, interest rates, and financial capital markets.
+8. fiscal policy, which involves government spending and taxes.
+9. theory: a simplified representation of how two or more variables interact with each other.
+10. model: a more applied or empirical representation
+11. goods and services market: firms sell and households buy.
+12. labor market: households sell labor to business firms or other employees.
+13. traditional economy: the oldest economic system and is used in parts of Asia, Africa, and South America. Traditional economies organize their
+economic affairs the way they have always done (i.e., tradition). 
+14. command economy: economic effort is devoted to goals passed down from a ruler or ruling class. Ancient Egypt was a good example: a large part of economic life was devoted to building pyramids.
+15. market: an institution that brings together buyers and sellers of goods or services, who may be either individuals or businesses.
+16. market economy: decision-making is decentralized; based on private enterprise: the private individuals or groups of private individuals own and operate the means of production (resources and businesses).
+17. globalization: the expanding cultural, political, and economic connections between people around the world
+18. Gross domestic product (GDP): measures the size of total production in an economy.
+
+Questions:
+1. What is scarcity? Can you think of two causes of scarcity?
+Scaricty is when the demand outstips the supply.
+When more people want something or when less of something is produced. 
+
+2. A computer systems engineer could paint his house, but it makes more sense for him to hire a painter to do it.
+Explain why.
+A computer systems engineer can earn more income doing his work than a painter earns doing his, so he is better off working his job and paying the painter.
+
+3. The chapter defines private enterprise as a characteristic of market-oriented economies. What would public
+enterprise be? Hint: It is a characteristic of command economies.
+A public enterprise could be the US Mail, or Water Systems; these are enterprises that have a captured market dictated by the govt.
+
+4. Give the three reasons that explain why the division of labor increases an economy’s level of production.
+speicalization
+higher production
+economies of scale
+
+5. What are three reasons to study economics?
+Virtually every major problem facing the world today has an economic dimension.
+The importance of economics to good citizenship.
+A basic understanding of economics makes you a well-rounded thinker.
+
+6. What is the difference between microeconomics and macroeconomics?
+The area of focus: microeconomics focuses on the actions of the individual agents, macroeconomics focusees on the economy as a whole.
+
+7. What are examples of individual economic agents? households, workers, businesses
+
+8. What are the three main goals of macroeconomics? economic growth, low unemployment, price stability
+
+9. How did John Maynard Keynes define economics?
+[Economics] is a method rather than a doctrine, an apparatus of the mind, a technique of thinking, which helps its possessor to draw correct conclusions.
+
+10. Are households primarily buyers or sellers in the goods and services market? In the labor market?
+Yes. Firms.
+
+11. Are firms primarily buyers or sellers in the goods and services market? In the labor market?
+Selleres. Buyers
+
+12. What are the three ways that societies can organize themselves economically? Traditional, command, market
+
+13. Why would division of labor without trade not work? No, there would be no selling
+
+14. Can you think of any examples of free goods, that is, goods or services that are not scarce? Air
+
+15. Macroeconomics is an aggregate of what happens at the microeconomic level. Would it be possible for what happens at the macro level to differ from how economic agents would react to some stimulus at the micro level? Hint: Think about the behavior of crowds. Yes, I think so.
+
+16. Why do you think that most modern countries’ economies are a mix of command and market types? Governments see value in certain goods and services even if the market doesn't support those.
+
+17. Can you think of ways that globalization has helped you economically? Can you think of ways that it has not? It has helped in that the job market for my skill set is greater, but it has hurt because companies can will let you go when a better/cheaper solution comes along. 
