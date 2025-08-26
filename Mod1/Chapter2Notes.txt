@@ -1,18 +1,70 @@
-1. opportunity cost: what one must give up to obtain what he or she desires. 
-2. marginal analysis: examining the benefits and costs of choosing a little more or a little less of a good.
-3. law of diminishing marginal utility: that as a person receives more of a good, the additional (or marginal) utility from each additional unit of the good declines.
-4. sunk costs: costs that were incurred in the past and cannot be recovered, should not affect the current decision.
-5. law of diminishing returns: as additional increments of resources are added to a certain purpose, the marginal benefit from those additional
-increments will decline.
-6. Productive efficiency: it is impossible to produce more of one good without decreasing the quantity that is produced of another good.
-7. Allocative efficiency: the particular combination of goods and services on the production possibility curve that a society produces represents the combination that society most desires.
-8. comparative advantage: when a country can produce a good at a lower opportunity cost than another country
-9. absolute advantage, which is when a country can produce more of a good.
-10. Positive statements are factual.
-11. Normative statements are subjective questions of opinion.
-12. 
-
+1. Opportunity Cost: measures cost by what we give up/forfeit in exchange; opportunity cost measures the value of the forgone alternative. 
+2. Marginal Analysis: examination of decisions on the margin, meaning a little more or a little less from the status quo.
+3. Law of Diminishing Marginal Utility: as we consume more of a good or service, the utility we get from additional units of the good or service tends to become smaller than what we received from earlier units.
+4. Sunk Costs: costs that were incurred in the past and cannot be recovered.
+5. Law of Diminishing Returns: as we add additional increments of resources to producing a good or service, the marginal benefit from those additional increments will decline.
+6. Productive Efficiency: when it is impossible to produce more of one good (or service) without decreasing the quantity produced of another good (or service).
+7. Allocative efficiency: when the mix of goods produced represents the mix that society most desires
+8. Comparative Advantage: when a country can produce a good at a lower cost in terms of other goods; or, when a
+country has a lower opportunity cost of production
+9. Absolute Advantage, which is when a country can produce more of a good.
+10. Positive statements: statement which describes the world as it is.
+11. Normative statements: statement which describes how the world should be.
+12. The tradeoff diagram always illustrates three basic themes: scarcity, tradeoffs, and economic efficiency.
+13. In the budget constraint or the production possibilities frontier, it is necessary to forgo some of one
+good to gain more of the other good.
+14. In a Budget Constraint we determine, the tradeoff is determined by the relative prices of the goods. These tradeoffs appear as a straight line.
+15. A curved line represents the tradeoffs in many Production Possibilities Frontiers because the law of diminishing returns holds that as we add resources to an area, the marginal gains tend to diminish. 
+16. Economic Efficiency: getting the most benefit from scarce resources
+17. Invisible Hand: Adam Smith's concept that individuals' self-interested behavior can lead to positive social outcomes.
+18. Budget Constraint: all possible consumption combinations of goods that someone can afford, given the prices of goods, when all income is spent; the boundary of the opportunity set
+19. Oppertunity Set: all possible combinations of consumption that someone can afford given the prices of goods and the individual’s income
+20. Production Possibilities Frontier (PPF): a diagram that shows the productively efficient combinations of two products that an economy can produce given the resources it has available
+21. Utility: satisfaction, usefulness, or value one obtains from consuming goods and services
 
 Difference between a budget contraint and a production possibilities frontier (PPF).
 1. The budget constraint is a straight line, the slope doesn't change. The PPF has a curved slope because of the law of deminishing returns.
 2. The absence of specific numbers on the axes of the PPF. There are no specific numbers because we do not know the exact amount of resources this imaginary economy has, nor do we know how many resources it takes to produce an outcome.
+
+Self Check
+2. Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables
+more healthcare with the same amount of resources. How would this affect the production possibilities curve and, in particular, how would it affect the opportunity cost of education?
+
+3. Could a nation be producing in a way that is allocatively efficient, but productively inefficient?
+
+4. What are the similarities between a consumer’s budget constraint and society’s production possibilities frontier, not just graphically but analytically?
+
+5. Individuals may not act in the rational, calculating way described by the economic model of decision making, measuring utility and costs at the margin, but can you make a case that they behave approximately that way?
+
+6. Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or normative statement?
+
+7. Would a research study on the effects of soft drink consumption on children’s cognitive development be a positive or normative statement?
+
+Reveiw
+8. Explain why scarcity leads to tradeoffs.
+
+9. Explain why individuals make choices that are directly on the budget constraint, rather than inside the budget constraint or outside it.
+
+10. What is comparative advantage?
+
+11. What does a production possibilities frontier illustrate?
+
+12. Why is a production possibilities frontier typically drawn as a curve, rather than a straight line?
+
+13. Explain why societies cannot make a choice above their production possibilities frontier and should not make a choice below it.
+
+14. What are diminishing marginal returns?
+
+15. What is productive efficiency? Allocative efficiency?
+
+16. What is the difference between a positive and a normative statement?
+
+17. Is the economic model of decision-making intended as a literal description of how individuals, firms, and the governments actually make decisions?
+
+18. What are four responses to the claim that people should not behave in the way described in this chapter?
+
+Critical Thinking
+
+20. During the Second World War, Germany’s factories were decimated. It also suffered many human casualties, both soldiers and civilians. How did the war affect Germany’s production possibilities curve?
+
+22. What assumptions about the economy must be true for the invisible hand to work? To what extent are those assumptions valid in the real world?
