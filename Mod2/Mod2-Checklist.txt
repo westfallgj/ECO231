@@ -1,0 +1,119 @@
+Ceteris paribus - Latin phrase meaning “other things being equal”
+
+•TWO TYPES OF SLOPE:
+•Upward Slope – indicates a positive (direct) relationship
+•Downward Slope – indicates a negative (indirect) relationship
+
+TWO WAYS MARKET IMPACTS ARE DISPLAYED GRAPHICALLY:
+•Shift – the entire curve moves (increase to the right, decrease to the left)
+•Movement along the curve – from point to point
+
+DEMAND of Goods and Services
+
+DEMAND - the amount of some good or service consumers are willing and able to purchase at each price. (any price/all prices)
+
+Quantity DEMAND - the total number of units of a good or service consumers are willing to purchase at a given price. (specific/exact)
+
+Law of DEMAND - keeping all other variables that affect demand constant,
+• if price goes UP, then quantity demanded goes DOWN
+• if price goes DOWN, then quantity demanded goes UP
+
+DEMAND Schedule - a table that shows a range of prices for a certain good or service and the quantity demanded at each price
+
+A shift in DEMAND happens when a change in some economic factor (other than price) causes a different quantity to be demanded at every price.
+
+Factors that affect DEMAND:
+    •Income
+        •Normal good - A product whose demand rises when income rises, and vice versa.
+        •Inferior good - A product whose demand falls when income rises, rises,and vice versa.
+    •Changing tastes or preferences
+    •Changes in the composition of the population
+    •Price of substitute or complement changes
+        •Substitute - a good or service that we can use in place of another good or service
+        •Complements - goods or services that are often used together so that consumption of one good tends to enhance consumption of the other.
+    •Changes in expectations about future
+
+Shifting the DEMAND Curve: if income increases consumers will purchase larger quantities, pushing demand to the right; thus causing the Demand Curve to shift right.
+
+Factors the can cause a increase in the DEMAND:
+    Taste shift to greater popularity
+    Population likely to buy rises
+    Income rises (for a normal good)
+    Price of substitutes rises
+    Price of •Complements falls
+    Future expectations encouraging buyers
+
+Factors that can cause a decrease in the DEMAND:
+    Taste shift to lesser popularity
+    Population likely to buy drops
+    Income drops (for a normal good)
+    Price of substitutes falls
+    Price of complements raises
+    Future expectations discouraging buyers
+
+SUPPLY of Goods and Services
+
+SUPPLY - the amount of some good or service a producer is willing to supply at
+each price.
+
+Quantity SUPPLIED - the total number of units of a good or service producers are willing to sell at a given price.
+
+Law of SUPPLY - assuming all other variables that affect supply are held constant
+    • if price goes UP, then quantity supplied goes UP
+    • if price goes DOWN, then quantity supplied goes •DOWN 
+
+SUPPLY schedule - a table that shows a range of prices for a certain good or service and the quantity supplied at each price.
+
+Shift in SUPPLY - when a change in some economic factor (other than price) causes a different quantity to be supplied at every price.
+
+Factors that affect SUPPLY:
+    • Input prices - the costs of labor, materials, and machinery that are used to produce goods and services.
+    • Natural conditions
+    • Technology
+    • Government policies
+
+When the cost of production increases, the SUPPLY curve shifts LEFT to a new price level.
+
+Equilibrium - the combination of price and quantity where there is no economic pressure from surpluses or shortages that would cause price or quantity to change
+    
+    quantity demanded = quantity supplied
+
+Equilibrium price - the price where quantity demanded is equal to quantity supplied
+
+Equilibrium quantity - the quantity at which quantity demanded and quantity supplied are equal for a certain price level.
+
+Surplus or excess supply - at the existing price, quantity supplied exceeds the quantity demanded.
+
+Shortage or excess demand - at the existing price, the quantity demanded exceeds the quantity supplied.
+
+The DEMAND curve (D) and the SUPPLY curve (S) intersect at the equilibrium point E.
+
+The equilibrium price is the only price where quantity DEMANDED = quantity SUPPLIED
+
+At a price above equilibrium, quantity DEMANDED > quantity DEMANDED, so there is
+excess SUPPLY.
+
+At a price below equilibrium, quantity DEMANDED > quantity DEMANDED, so there is
+excess DEMAND.
+
+Factors that increase SUPPLY
+    Favorable natural conditions for production
+    Fall in input prices
+    Improved Technology
+    Lower product taxes/less costly regulations
+
+Factors that decrease SUPPLY
+    Poor natural conditions for production
+    Rise in input prices
+    Decline Technology
+    Higher product taxes/more costly regulations
+
+Changes in Equilibrium Price and Quantity: The Four-Step Process
+
+Four-step process to determining how an economic event affects equilibrium price
+and quantity:
+    • Step 1. Draw a demand and supply model before the economic change took place.
+    • Step 2. Decide whether the economic change affects demand or supply.
+    • Step 3. Decide whether the effect causes a curve shift to the right or to the left, and sketch the new curve on the diagram.
+    • Step 4. Identify the new equilibrium and then compare to the original.
+
