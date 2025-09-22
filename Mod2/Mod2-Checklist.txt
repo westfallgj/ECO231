@@ -6,26 +6,31 @@ Ceteris paribus - Latin phrase meaning “other things being equal”
 
 TWO WAYS MARKET IMPACTS ARE DISPLAYED GRAPHICALLY:
 •Shift – the entire curve moves (increase to the right, decrease to the left)
-•Movement along the curve – from point to point
+•Movement along the curve – from Point to Point
 
 DEMAND of Goods and Services
 
-DEMAND - the amount of some good or service consumers are willing and able to purchase at each price. (any price/all prices)
+DEMAND - the amount of some good or service consumers are willing and able to purchase at each price. Any price/all prices, the entire DEMAND Curve
 
-Quantity DEMAND - the total number of units of a good or service consumers are willing to purchase at a given price. (specific/exact)
+Quantity DEMAND - the total number of units of a good or service consumers are willing to purchase at a given price. Specific/exact, one Point on hte DEMAND Curve.
 
-Law of DEMAND - keeping all other variables that affect demand constant,
-• if price goes UP, then quantity demanded goes DOWN
-• if price goes DOWN, then quantity demanded goes UP
+Law of DEMAND - the inverse relationship between price and Quantity DEMAND
+    keeping all other variables that affect DEMAND constant
+    • if price goes UP, then Quantity DEMANDED goes DOWN
+    • if price goes DOWN, then Quantity DEMANDED goes UP
 
-DEMAND Schedule - a table that shows a range of prices for a certain good or service and the quantity demanded at each price
+There are two ways to describe the same relationship between price and Quantity DEMAND: DEMAND Curve and DEMAND Schedule
 
-A shift in DEMAND happens when a change in some economic factor (other than price) causes a different quantity to be demanded at every price.
+DEMAND Curve: shows the relationship between price and Quantity DEMANDED on a graph.
+
+DEMAND Schedule - a table that shows a range of prices for a certain good or service and the Quantity DEMANDED at each price
+
+A shift in DEMAND happens when a change in some economic factor (other than price) causes a different Quantity to be DEMANDED at every price.
 
 Factors that affect DEMAND:
     •Income
-        •Normal good - A product whose demand rises when income rises, and vice versa.
-        •Inferior good - A product whose demand falls when income rises, rises,and vice versa.
+        •Normal good - A product whose DEMAND rises when income rises, and vice versa.
+        •Inferior good - A product whose DEMAND falls when income rises, rises,and vice versa.
     •Changing tastes or preferences
     •Changes in the composition of the population
     •Price of substitute or complement changes
@@ -33,7 +38,7 @@ Factors that affect DEMAND:
         •Complements - goods or services that are often used together so that consumption of one good tends to enhance consumption of the other.
     •Changes in expectations about future
 
-Shifting the DEMAND Curve: if income increases consumers will purchase larger quantities, pushing demand to the right; thus causing the Demand Curve to shift right.
+Shifting the DEMAND Curve: if income increases consumers will purchase larger quantities, pushing DEMAND to the right; thus causing the DEMAND Curve to shift right.
 
 Factors the can cause a increase in the DEMAND:
     Taste shift to greater popularity
@@ -53,18 +58,17 @@ Factors that can cause a decrease in the DEMAND:
 
 SUPPLY of Goods and Services
 
-SUPPLY - the amount of some good or service a producer is willing to supply at
-each price.
+SUPPLY - the amount of some good or service a producer is willing to SUPPLY at each price. Any price/all prices, the entire SUPPLY Curve
 
-Quantity SUPPLIED - the total number of units of a good or service producers are willing to sell at a given price.
+Quantity SUPPLIED - the total number of units of a good or service producers are willing to sell at a given price. Specific/exact, one Point on hte SUPPLY Curve.
 
-Law of SUPPLY - assuming all other variables that affect supply are held constant
-    • if price goes UP, then quantity supplied goes UP
-    • if price goes DOWN, then quantity supplied goes •DOWN 
+Law of SUPPLY - assuming all other variables that affect SUPPLY are held constant
+    • if price goes UP, then Quantity SUPPLIED goes UP
+    • if price goes DOWN, then Quantity SUPPLIED goes DOWN 
 
-SUPPLY schedule - a table that shows a range of prices for a certain good or service and the quantity supplied at each price.
+SUPPLY Schedule - a table that shows a range of prices for a certain good or service and the Quantity SUPPLIED at each price.
 
-Shift in SUPPLY - when a change in some economic factor (other than price) causes a different quantity to be supplied at every price.
+Shift in SUPPLY - when a change in some economic factor (other than price) causes a different Quantity to be SUPPLIED at every price.
 
 Factors that affect SUPPLY:
     • Input prices - the costs of labor, materials, and machinery that are used to produce goods and services.
@@ -72,28 +76,28 @@ Factors that affect SUPPLY:
     • Technology
     • Government policies
 
-When the cost of production increases, the SUPPLY curve shifts LEFT to a new price level.
+When the cost of production increases, the SUPPLY Curve shifts LEFT to a new price level.
 
-Equilibrium - the combination of price and quantity where there is no economic pressure from surpluses or shortages that would cause price or quantity to change
+EQUILIBRIUM - the combination of price and Quantity where there is no economic pressure from surpluses or shortages that would cause price or Quantity to change
     
-    quantity demanded = quantity supplied
+    Quantity DEMANDED = Quantity SUPPLIED
 
-Equilibrium price - the price where quantity demanded is equal to quantity supplied
+EQUILIBRIUM Price - the price where Quantity DEMANDED is equal to Quantity SUPPLIED
 
-Equilibrium quantity - the quantity at which quantity demanded and quantity supplied are equal for a certain price level.
+EQUILIBRIUM Quantity - the Quantity at which Quantity DEMANDED and Quantity SUPPLIED are equal for a certain price level.
 
-Surplus or excess supply - at the existing price, quantity supplied exceeds the quantity demanded.
+Surplus or Excess SUPPLY - at the existing price, Quantity SUPPLIED exceeds the Quantity DEMANDED. Above the EQUILIBRIUM Point
 
-Shortage or excess demand - at the existing price, the quantity demanded exceeds the quantity supplied.
+Shortage or Excess DEMAND - at the existing price, the Quantity DEMANDED exceeds the Quantity SUPPLIED. Below the EQUILIBRIUM Point
 
-The DEMAND curve (D) and the SUPPLY curve (S) intersect at the equilibrium point E.
+The DEMAND curve (D) and the SUPPLY curve (S) intersect at the EQUILIBRIUM Point E.
 
-The equilibrium price is the only price where quantity DEMANDED = quantity SUPPLIED
+The EQUILIBRIUM price is the only price where Quantity DEMANDED = Quantity SUPPLIED
 
-At a price above equilibrium, quantity DEMANDED > quantity DEMANDED, so there is
+At a price above EQUILIBRIUM, Quantity DEMANDED > Quantity DEMANDED, so there is
 excess SUPPLY.
 
-At a price below equilibrium, quantity DEMANDED > quantity DEMANDED, so there is
+At a price below EQUILIBRIUM, Quantity DEMANDED > Quantity DEMANDED, so there is
 excess DEMAND.
 
 Factors that increase SUPPLY
@@ -108,12 +112,47 @@ Factors that decrease SUPPLY
     Decline Technology
     Higher product taxes/more costly regulations
 
-Changes in Equilibrium Price and Quantity: The Four-Step Process
+SHIFTS in SUPPLY or DEMAND
 
-Four-step process to determining how an economic event affects equilibrium price
-and quantity:
-    • Step 1. Draw a demand and supply model before the economic change took place.
-    • Step 2. Decide whether the economic change affects demand or supply.
+Normal Good a product whose demand rises when income rises
+Inferior Good a product whose dmeand falls when income rises
+Substitute a good or service that can repalce another good or service
+Complement a good or service that pairs with another to enhance consumption of the other
+
+Other factors that shift DEMAND Curves
+    Changing Taste in preferences
+    Changes in the Composition of the Population
+    Change in income (a normal good)
+    Price of Substitute
+    Price of Complement
+    Changes in Expectations about Future Prices or Other Factors that Affect Demand
+
+Shift in DEMAND at any price and at every price the Quantity Demanded will be different thatn it was before. The entire Demand Curve moves for all points.
+Shift in SUPPLY means a change in the Quantity Supplied at every price. The entire Supply Curve moves for all points.
+
+Inputs to or Factors of Production: labor, materials, machinery, weather and climate, new technoloties, government policies.
+
+Factors that shift SUPPLY Curves
+    Natural conditions
+    Input prices
+    Technology
+    Taxes/regulations
+
+Setting Prices: the cost of Production and the desired Profit equal the price a firm will set for a product.
+
+Changes in EQUILIBRIUM Price and Quantity: The Four-Step Process
+
+Four-step process to determining how an economic event affects EQUILIBRIUM price
+and Quantity:
+
+    • Step 1. Draw a DEMAND and SUPPLY model before the economic change took place.
+        Requires four standard pieces of information: 
+            The Law of DEMAND (which tells us the slope or the DEMAND Curve)
+            The Law of SUPPLY (whiich gives us the sloop of the SUPPLY Curve)
+            The shift in variables of DEMAND
+            The shift in variables of SUPPLY
+    • Step 2. Decide whether the economic change affects DEMAND or SUPPLY.
+        Is it from the list of DEMAND factors of SUPPLY factors
     • Step 3. Decide whether the effect causes a curve shift to the right or to the left, and sketch the new curve on the diagram.
-    • Step 4. Identify the new equilibrium and then compare to the original.
+    • Step 4. Identify the new EQUILIBRIUM and then compare to the original.
 
