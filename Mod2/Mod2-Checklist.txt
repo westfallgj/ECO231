@@ -156,3 +156,10 @@ and Quantity:
     • Step 3. Decide whether the effect causes a curve shift to the right or to the left, and sketch the new curve on the diagram.
     • Step 4. Identify the new EQUILIBRIUM and then compare to the original.
 
+Price Ceilings and Price Floors
+
+Price Controls: laws the government enacts to regulate prices
+Price Ceiling: keeps price from rising above a certain level, the legal maximum price that one pays for a good or service.
+Price Floor: keeps prics from sinking below a certain level, the legal minimum price that one pays for a good of service.
+
+
