@@ -25,7 +25,7 @@ A shift in DEMAND happens when a change in some economic factor (other than pric
 Factors that affect DEMAND:
     •Income
         •Normal good - A product whose demand rises when income rises, and vice versa.
-        •Inferior good - A product whose demand falls when income rises, rises,and vice versa.
+        •Inferior good - A product whose demand falls when income rises, and vice versa.
     •Changing tastes or preferences
     •Changes in the composition of the population
     •Price of substitute or complement changes
