@@ -99,10 +99,10 @@ The DEMAND curve (D) and the SUPPLY curve (S) intersect at the EQUILIBRIUM Point
 
 The EQUILIBRIUM price is the only price where Quantity DEMANDED = Quantity SUPPLIED
 
-At a price above EQUILIBRIUM, Quantity DEMANDED > Quantity DEMANDED, so there is
+At a price above EQUILIBRIUM, Quantity SUPPLIED > Quantity DEMANDED, so there is
 excess SUPPLY.
 
-At a price below EQUILIBRIUM, Quantity DEMANDED > Quantity DEMANDED, so there is
+At a price below EQUILIBRIUM, Quantity DEMANDED > Quantity SUPPLIED, so there is
 excess DEMAND.
 
 Factors that increase SUPPLY
@@ -120,8 +120,8 @@ Factors that decrease SUPPLY
 SHIFTS in SUPPLY or DEMAND
 
 Normal Good a product whose demand rises when income rises
-Inferior Good a product whose dmeand falls when income rises
-Substitute a good or service that can repalce another good or service
+Inferior Good a product whose demand falls when income rises
+Substitute a good or service that can replace another good or service
 Complement a good or service that pairs with another to enhance consumption of the other
 
 Other factors that shift DEMAND Curves
@@ -165,6 +165,6 @@ Price Ceilings and Price Floors
 
 Price Controls: laws the government enacts to regulate prices
 Price Ceiling: keeps price from rising above a certain level, the legal maximum price that one pays for a good or service.
-Price Floor: keeps prics from sinking below a certain level, the legal minimum price that one pays for a good of service.
+Price Floor: keeps prices from sinking below a certain level, the legal minimum price that one pays for a good of service.
 
 
